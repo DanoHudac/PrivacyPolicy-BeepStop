@@ -1,29 +1,37 @@
-# PrivacyPolicy-BeepStop
-This is privacy policy page for Application BeepStop
-
 Privacy Policy
 
-Last updated: 24.04.2024
+Last updated: 09.04.2026
 
 Introduction
 
-At TritonFrame, we respect the privacy of our users and are committed to protecting it through our compliance with this policy. This policy describes the personal data we collect, how we use it, and the choices you can make about your personal data.
+At TritonFrame, we respect the privacy of our users and are committed to protecting it through our compliance with this policy. This policy describes what data our advertising partners may collect when you use Beep Timer, and the choices you can make about that data.
 
-Data Collection
+Data We Collect
 
-We do not collect or store any personal data from our users in BeepStop.
+Beep Timer does not directly collect, transmit, or store any personal data on our servers. Your workout settings and preferences are stored locally on your device only and are never sent anywhere.
 
 Advertisements
 
-We use Google AdMob to display ads in our application. Google AdMob may use certain information like your device's advertising identifier and other non-personal data (such as your IP address) to serve personalized ads. However, this does not involve the collection or use of any personal data. For more information about Google AdMob and how it uses information, please see Google’s Privacy Policy.
+We use Google AdMob with third-party mediation partners to display ads. These partners may collect device identifiers (such as the Google Advertising ID), IP address, and usage data to serve relevant ads. Our active mediation partners are:
+
+• Google AdMob / Google Mobile Ads
+• IronSource (Unity LevelPlay)
+• Unity Ads
+• InMobi
+
+Each partner operates under its own privacy policy and is independently responsible for data collected through its SDK.
+
+Consent (GDPR / EEA Users)
+
+If you are located in the European Economic Area (EEA) or UK, the app will display a consent dialog on first launch powered by Google's User Messaging Platform (UMP). You can choose whether to allow personalized advertising. Without your consent, only non-personalized ads will be shown.
 
 Local Storage (AsyncStorage)
 
-BeepStop uses AsyncStorage to locally store data on your device. This data is purely for enhancing app functionality and is never transferred or shared outside of your device.
+Beep Timer uses AsyncStorage to save your timer settings and workout preferences locally on your device. This data never leaves your device and is not shared with us or any third party.
 
 Security
 
-We value your trust in providing your personal information, thus we strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet or electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Since we do not collect or transmit your personal data, the primary security considerations relate to the ad SDKs operating within industry-standard practices. No method of electronic storage or internet transmission is 100% secure, and we cannot guarantee absolute security of data handled by third-party partners.
 
 Changes to This Privacy Policy
 
@@ -32,3 +40,4 @@ We may update our Privacy Policy from time to time. We advise you to review this
 Contact Us
 
 If you have any questions about this Privacy Policy or App, please contact us at: tritonframe@gmail.com
+
