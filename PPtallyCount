@@ -1,0 +1,32 @@
+Privacy Policy
+Last updated: August 2026
+
+Data Stored on Your Device
+
+TallyCount stores all counters and bill data (names, amounts, people) exclusively on your device using local storage (AsyncStorage). This data is never transmitted anywhere — we have no servers and cannot access it. Uninstalling the app permanently deletes all stored data.
+
+Advertising — Google AdMob
+
+TallyCount uses Google AdMob to display interstitial ads. Google may collect information such as your device advertising identifier (GAID on Android, IDFA on iOS), IP address, and usage signals in order to serve relevant advertisements.
+
+On iOS you will be prompted under Apple’s App Tracking Transparency (ATT) framework before any tracking occurs. On Android a consent form is shown via Google’s User Messaging Platform (UMP).
+
+You can opt out of personalised ads at any time:
+
+Android: Settings → Google → Ads → Opt out of Ads Personalisation
+iOS: Settings → Privacy & Security → Tracking → disable TallyCount
+Device Language
+
+The app reads your device language setting to select the display language. This information is used only locally on your device and is never transmitted to any server.
+
+Third-Party Privacy Policies
+
+For details on how Google handles data collected through AdMob, please review the Google Privacy Policy: https://policies.google.com/privacy
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. The current version is always available within the app under Settings → Privacy Policy.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact us at: tritonframe@gmail.com
